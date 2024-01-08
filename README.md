@@ -15,3 +15,12 @@ mvcの構造がわかるようなファイルだけを残しています。
 
 
 参考までに動画を上げています。
+
+This app is a simple system for managing IT assets. It allows you to search and edit device information based on IP addresses. Only files that illustrate the MVC structure have been retained for reference.
+
+A video has been uploaded for your reference.
+
+
+
+
+
