@@ -1,0 +1,52 @@
+# 依存関係
+/vendor
+/node_modules
+
+# 環境設定
+.env
+.env.backup
+.env.production
+.env.local
+.env.*.local
+
+# Laravel特有のファイル
+/public/hot
+/public/storage
+/public/build
+/storage/*.key
+/bootstrap/cache/*.php
+/storage/logs/*
+
+# PHPUnit
+/.phpunit.cache
+/.phpunit.result.cache
+
+# データベースのバックアップファイル
+*.sql
+*.sql.gz
+
+# テンポラリファイルやバックアップファイル
+*.tmp
+*.bak
+*.swp
+
+# 開発ツールの設定
+/.idea
+/.vscode
+/.fleet
+/Homestead.json
+/Homestead.yaml
+/auth.json
+
+# ログファイル
+/npm-debug.log
+/yarn-error.log
+
+# その他
+composer.phar
+composer.lock
+package-lock.json
+.DS_Store
+Thumbs.db
+/phpintel
+.temp
