@@ -2,7 +2,10 @@
 
 
 
-Uploading 2024-01-08 15-16-15.mp4…
+
+https://github.com/caffeine890/cmdb1/assets/115019573/42b4778f-99ca-46e4-b315-b6113f4c6bfe
+
+
 
 
 # 簡易IT資産管理アプリ
